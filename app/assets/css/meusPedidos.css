@@ -1,0 +1,25 @@
+.m-pedidos__texto-inicial {
+    text-align: center;
+    margin-top: 3em;    
+}
+.m-pedidos__area{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.m-pedidos__table{
+    margin-top: 2em;
+    
+    padding: 10px;
+}
+
+.m-pedidos__table th{
+    padding: 5px 10px;
+    border-bottom: 2px solid #f4f4f4;
+    
+   
+}
+.m-pedidos__table td{
+    padding: 10px 10px;
+    border-bottom: 1px solid #f4f4f4;
+}
